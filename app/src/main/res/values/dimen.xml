@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="config_padding">8dp</dimen>
+    <dimen name="config_button_min_width">120dp</dimen>
+    <dimen name="config_user_agent_margin">24dp</dimen>
+    <dimen name="config_switch_margin">8dp</dimen>
+    <dimen name="config_switch_title_margin">16dp</dimen>
+
+    <dimen name="log_padding">8dp</dimen>
+
+    <dimen name="permission_message_padding">48dp</dimen>
+
+</resources>
